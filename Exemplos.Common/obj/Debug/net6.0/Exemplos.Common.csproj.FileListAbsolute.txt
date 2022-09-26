@@ -1,0 +1,12 @@
+c:\Users\vitor\Desktop\Vitor\bootcamp\Exemplos\Exemplos.Common\bin\Debug\net6.0\Exemplos.Common.deps.json
+c:\Users\vitor\Desktop\Vitor\bootcamp\Exemplos\Exemplos.Common\bin\Debug\net6.0\Exemplos.Common.dll
+c:\Users\vitor\Desktop\Vitor\bootcamp\Exemplos\Exemplos.Common\bin\Debug\net6.0\Exemplos.Common.pdb
+c:\Users\vitor\Desktop\Vitor\bootcamp\Exemplos\Exemplos.Common\obj\Debug\net6.0\Exemplos.Common.csproj.AssemblyReference.cache
+c:\Users\vitor\Desktop\Vitor\bootcamp\Exemplos\Exemplos.Common\obj\Debug\net6.0\Exemplos.Common.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\vitor\Desktop\Vitor\bootcamp\Exemplos\Exemplos.Common\obj\Debug\net6.0\Exemplos.Common.AssemblyInfoInputs.cache
+c:\Users\vitor\Desktop\Vitor\bootcamp\Exemplos\Exemplos.Common\obj\Debug\net6.0\Exemplos.Common.AssemblyInfo.cs
+c:\Users\vitor\Desktop\Vitor\bootcamp\Exemplos\Exemplos.Common\obj\Debug\net6.0\Exemplos.Common.csproj.CoreCompileInputs.cache
+c:\Users\vitor\Desktop\Vitor\bootcamp\Exemplos\Exemplos.Common\obj\Debug\net6.0\Exemplos.Common.dll
+c:\Users\vitor\Desktop\Vitor\bootcamp\Exemplos\Exemplos.Common\obj\Debug\net6.0\refint\Exemplos.Common.dll
+c:\Users\vitor\Desktop\Vitor\bootcamp\Exemplos\Exemplos.Common\obj\Debug\net6.0\Exemplos.Common.pdb
+c:\Users\vitor\Desktop\Vitor\bootcamp\Exemplos\Exemplos.Common\obj\Debug\net6.0\ref\Exemplos.Common.dll
