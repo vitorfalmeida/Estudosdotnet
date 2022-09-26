@@ -1,4 +1,4 @@
-namespace Exemplos.Common.Models
+namespace Exemplos.Common.Calculadora
 {
   public class Calculadora
   {
@@ -39,7 +39,7 @@ namespace Exemplos.Common.Models
 
     public void exponeciacao(int numero1, int numero2)
     {
-      Console.WriteLine($"{numero1} Elevado a  {numero2} = " + (Math.Pow(numero1 , numero2)));
+      Console.WriteLine($"{numero1} Elevado a  {numero2} = " + (Math.Pow(numero1, numero2)));
 
     }
 
