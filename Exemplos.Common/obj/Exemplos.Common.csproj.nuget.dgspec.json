@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\vitor\\Desktop\\Vitor\\bootcamp\\Exemplos\\Exemplos.Common\\Exemplos.Common.csproj": {}
+    "C:\\Users\\vitor\\Desktop\\Vitor\\bootcamp\\Exemplos\\Exemplos.Common\\Exemplos.Common.csproj": {}
   },
   "projects": {
-    "c:\\Users\\vitor\\Desktop\\Vitor\\bootcamp\\Exemplos\\Exemplos.Common\\Exemplos.Common.csproj": {
+    "C:\\Users\\vitor\\Desktop\\Vitor\\bootcamp\\Exemplos\\Exemplos.Common\\Exemplos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\vitor\\Desktop\\Vitor\\bootcamp\\Exemplos\\Exemplos.Common\\Exemplos.Common.csproj",
+        "projectUniqueName": "C:\\Users\\vitor\\Desktop\\Vitor\\bootcamp\\Exemplos\\Exemplos.Common\\Exemplos.Common.csproj",
         "projectName": "Exemplos.Common",
-        "projectPath": "c:\\Users\\vitor\\Desktop\\Vitor\\bootcamp\\Exemplos\\Exemplos.Common\\Exemplos.Common.csproj",
+        "projectPath": "C:\\Users\\vitor\\Desktop\\Vitor\\bootcamp\\Exemplos\\Exemplos.Common\\Exemplos.Common.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\vitor\\Desktop\\Vitor\\bootcamp\\Exemplos\\Exemplos.Common\\obj\\",
+        "outputPath": "C:\\Users\\vitor\\Desktop\\Vitor\\bootcamp\\Exemplos\\Exemplos.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
